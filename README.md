@@ -45,7 +45,7 @@ curl-counter/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/curl_counter.git
+git clone https://github.com/manya3agrawal/curl_counter.git
 ```
 
 2. Move into the project directory
